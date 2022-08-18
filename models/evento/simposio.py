@@ -1,0 +1,2 @@
+class simposio(evento):
+  
