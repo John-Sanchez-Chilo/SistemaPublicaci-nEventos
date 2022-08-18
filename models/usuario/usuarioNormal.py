@@ -1,0 +1,2 @@
+class UsuarioNormal(Usuario):
+  
