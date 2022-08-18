@@ -1,1 +1,1 @@
-# SistemaPublicaci-nEventos
+# SistemaPublicacionEventos
